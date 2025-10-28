@@ -1,6 +1,6 @@
 # Hello there, I'm Ammar 👋
 - I love open source. ❤️
-- my cv link : https://ammaralhasanat.github.io/Ammar-ALHassnat-CV/
+- my cv link : 
 
 
 [![](https://raw.githubusercontent.com/AmmarALHasanat/AmmarALHasanat/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
